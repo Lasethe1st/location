@@ -1,4 +1,3 @@
-<script>
 // Get a reference to the element(s) with n-country="bolivia"
 const countryElements = document.querySelectorAll('[n-country="bolivia"]');
 
